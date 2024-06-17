@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">myapplication</string>
+    <string name="enter_the_name">enter the name</string>
+    <string name="button">Button</string>
+    <string name="welcome_to_android">welcome to android</string>
+    <string name="offers">offers</string>
+    <string name="name">Name</string>
+    <string name="clap">clap</string>
+    <string name="todo">TODO</string>
+</resources>
